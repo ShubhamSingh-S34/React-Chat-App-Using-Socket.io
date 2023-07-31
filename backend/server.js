@@ -1,3 +1,4 @@
+// DELETED the .git folder in frontend
 const express = require("express");
 const app = express();
 const server = require("http").createServer(app);
